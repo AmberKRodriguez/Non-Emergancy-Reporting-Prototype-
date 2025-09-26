@@ -1,4 +1,6 @@
-# Non-Emergancy-Reporting-Prototype-
+
+<h1>Non Emergancy Reporting Prototype</h1>
+<h3><a href="https://www.figma.com/design/eS5YCSiY4KwQFg7pLFqzvR/Non-Emergency-Reporting?node-id=0-1&m=dev&t=4WG2R3niKN5GZiy4-1">View Prototype</a></h3>
 
 <img width="1298" height="739" alt="Screenshot 2025-09-26 at 1 23 36 PM" src="https://github.com/user-attachments/assets/a4dfb1f8-58be-47fb-8f8a-8f161d0c3fcc" />
 <img width="1298" height="730" alt="Screenshot 2025-09-26 at 1 23 45 PM" src="https://github.com/user-attachments/assets/639242bb-49b9-44a3-95ae-13b5722dce01" />
@@ -15,4 +17,3 @@
 <img width="1298" height="730" alt="Screenshot 2025-09-26 at 1 24 53 PM" src="https://github.com/user-attachments/assets/9fa678f4-5f3d-4ad4-b208-43e6480444bb" />
 <img width="1298" height="730" alt="Screenshot 2025-09-26 at 1 24 59 PM" src="https://github.com/user-attachments/assets/5d2ed96f-3c5b-421f-ba34-7e62f28f1727" />
 <img width="1298" height="730" alt="Screenshot 2025-09-26 at 1 25 05 PM" src="https://github.com/user-attachments/assets/5e143af3-efb0-4521-86af-3c2e8606b0bf" />
-https://www.figma.com/design/eS5YCSiY4KwQFg7pLFqzvR/Non-Emergency-Reporting?node-id=0-1&m=dev&t=4WG2R3niKN5GZiy4-1
